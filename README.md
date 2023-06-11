@@ -15,4 +15,5 @@ Cada pasta (C e C++) tem seu próprio makefile. Abra uma delas no seu terminal a
 |  `make run`            | Executa o programa da pasta build após a realização da compilação                                                                               |
 
 Autores: Felipe Parreiras Dias, Felipe Werneck De Oliveira Mendes, Gustavo Henrique D’Anunciacão Ferreira, José Marconi de Almeida Júnior, Lucas Fernandes Barbosa de Andrade.
+
 3º período de Engenharia de Computação, CEFET-MG, Campus Divinópolis.
